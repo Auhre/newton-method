@@ -1,5 +1,5 @@
 % Rey Rico Alzaga
-% BSCS = 4B
+% BSCS - 4B
 
 % Notice and input statement
 fprintf("For testing, try the approximation of -1.5 and iterations of 3 as presented in lecture 3.3\n\n")
